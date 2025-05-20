@@ -45,9 +45,11 @@ DELIVERABLES:
  1. Use structure pointer.
  2. DMA require to store books info.
  3. No file handling functions.
+
  Project Version2
  1. Use structure pointer and implement by using  SLL.
  2. File handling functions require to store data.
- SUGGESTION:
- A)Use typedef, enum, union where-ever applicable.
+ 
+ SUGGESTION:\
+ A)Use typedef, enum, union where-ever applicable.\
  B) Use separate header file to keep all structure, union , and typedefs.
